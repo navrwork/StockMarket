@@ -1,4 +1,4 @@
-# Application To Fetch NSE Data
+# Apps and Libraries To Fetch NSE Data
 
 ## Software Used
 * Python 3.12.x
