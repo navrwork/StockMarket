@@ -78,4 +78,4 @@ ticker = "NIFTYBEES.NS"
 years = 5
 data = get_close_and_200dma(ticker, 5)
 data = get_close_and_200dma(ticker, 3)
-print(f"The close prices and 200 DMA values for {ticker} have been written to data/{ticker}_close_and_200dma.csv")
+print(f"The 200 DMA values for {ticker} have been written to data/{ticker}_200dma_data.csv")
